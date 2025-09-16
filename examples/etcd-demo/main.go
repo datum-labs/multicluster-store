@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	mc "github.com/datum-cloud/k8s-mcstore/pkg/mcstore"
+	mc "github.com/datum-labs/multicluster-store/pkg/multicluster-store"
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

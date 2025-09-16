@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	mc "github.com/datum-cloud/k8s-mcstore/pkg/mcstore"
+	mc "github.com/datum-labs/multicluster-store/pkg/multicluster-store"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 )
 

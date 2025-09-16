@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	mc "github.com/datum-cloud/k8s-mcstore/pkg/mcstore"
+	mc "github.com/datum-labs/multicluster-store/pkg/multicluster-store"
 	"go.etcd.io/etcd/api/v3/mvccpb"
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"k8s.io/apimachinery/pkg/api/meta"

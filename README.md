@@ -1,4 +1,4 @@
-# k8s-mcstore
+# Multicluster Store
 
 Kubernetes Multi-Cluster Store (mcstore)
 
