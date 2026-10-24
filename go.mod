@@ -1,8 +1,6 @@
 module github.com/datum-labs/multicluster-store
 
-go 1.24.0
-
-toolchain go1.24.7
+go 1.25.0
 
 require (
 	go.etcd.io/etcd/api/v3 v3.6.4
@@ -67,7 +65,7 @@ require (
 	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/term v0.30.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb // indirect
