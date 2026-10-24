@@ -2,7 +2,7 @@ module github.com/datum-labs/multicluster-store
 
 go 1.24.0
 
-toolchain go1.24.7
+toolchain go1.26.10
 
 require (
 	go.etcd.io/etcd/api/v3 v3.6.4
